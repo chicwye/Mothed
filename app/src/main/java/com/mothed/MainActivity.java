@@ -12,6 +12,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initData1();
         initData2();
+        initData3();
+    }
+
+    private void initData3() {
+
     }
 
     //简单选择排序
